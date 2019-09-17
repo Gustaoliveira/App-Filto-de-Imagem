@@ -1,0 +1,23 @@
+.btn{
+  background-color: #8FADBF;
+}
+
+.range{
+  background-color: #8FADBF;
+}
+
+h1{
+  font-family: 'Franklin Gothic Medium';
+  margin-left: 25%;
+  color: rgb(255, 255, 255);
+}
+
+label{
+  color: rgb(255, 255, 255);
+}
+
+body{
+  background-image: url(../fundo.gif);
+  background-position-x: center;
+  
+}
